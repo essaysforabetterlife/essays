@@ -8,7 +8,7 @@ Anosognosia is a medical term to describe someone with a mental illness who has 
 
 Take someone who is angry all the time, bitter at the world and everyone who is close to him, constantly oscillating between crying over the fact that he lost his father and threatening to "take this outside and teach you a lesson," all unprovoked. Then, tell him that he is diagnosed as having bipolar disorder, and that his mood swings are the result of an unfortunate mental illness. There is a 50% chance that he will agree with you, that he sees what's been happening to his life and that it's not normal, and that he needs to seek whatever form of treatment is availble to help combat the disease. The other 50% of the time, this is seen as a threat to his way of life--you're wrong, the medical establishment is wrong, there is nothing wrong with me. I. Am. Not. Sick.
 
-Modern medicine, as of this writing, has a theory that anosognosia is a consequence of the disease itself. Whatever multitude of causes that lead to someone having been diagnosed with bipolar disorder, it is believed that //the reason// they can't see what is obviously bipolar disorder is because of the bipolar disorder itself.
+Modern medicine, as of this writing, has a theory that anosognosia is a consequence of the disease itself. Whatever multitude of causes that lead to someone having been diagnosed with bipolar disorder, it is believed that _the reason_ they can't see what is obviously bipolar disorder is because of the bipolar disorder itself.
 
 ---
 
