@@ -1,7 +1,7 @@
-baseURL: https://essaysforabetterlife.com
+baseURL: https://essaysforlife.com/
 languageCode: en-us
 defaultContentLanguage: en
-title: Essays for a Better Life
+title: Essays for Life
 theme: cupper-hugo-theme
 # googleAnalytics: UA-123456789-1
 # disqusShortname: yourdiscussshortname
@@ -17,15 +17,15 @@ imaging:
   quality: 99
 
 params:
-  description: Essays intended to improve life
-  homeMetaContent: Essays intended to improve life
+  description: Essays, about life
+  homeMetaContent: Essays, about life
   footer: it must be experienced
   dateFormat: Jan 2, 2006
   # codePenUser: someUser
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Essays
