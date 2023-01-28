@@ -4,51 +4,54 @@ date: 2023-01-27T19:05:21-08:00
 draft: false
 ---
 
-I remember a time
-back before the world lured us into its snare
-where we could just be
-and not manipulate
+I remember a time<br>
+back before the world lured us into its snare<br>
+where we could just be<br>
+and not manipulate<br>
 
-A faint, fuzzy memory
-like a flickering candle in a storm
-but one full of hope
+A faint, fuzzy memory<br>
+like a flickering candle in a storm<br>
+but one full of hope<br>
 
-I remember when
-we could look at each other
-want nothing
-expect nothing
-demand nothing
-insist nothing
-prefer nothing
-discern nothing
+I remember when<br>
+we could look at each other<br>
+want nothing<br>
+expect nothing<br>
+demand nothing<br>
+insist nothing<br>
+prefer nothing<br>
+discern nothing<br>
 
-A simple existence
-that looked no further than what what seen
+A simple existence<br>
+that looked no further than what what seen<br>
 
-Child-like wonder
-The fall from grace
-The loss of innocence
-Now self, now other
+Child-like wonder<br>
+The fall from grace<br>
+The loss of innocence<br>
+Now self, now other<br>
 
-I commit to returning
-through the violent storm
-wearing nothing but flesh
-to that, to us
-even if it costs us Us
+I commit to returning<br>
+through the violent storm<br>
+wearing nothing but flesh<br>
+to that, to us<br>
+even if it costs us Us<br>
 
-Lost in judgment
-Lost in expectation
-Lost in scheming
-Lost in mistakes
-Is not life, but hell
+Lost in judgment<br>
+Lost in expectation<br>
+Lost in scheming<br>
+Lost in mistakes<br>
+Is not life, but hell<br>
 
-In this moment
-I renew this commitment
-And strive
-As if my head were aflame
+In this moment<br>
+I renew this commitment<br>
+And strive<br>
+As if my head were aflame<br>
 
-You shall not know me to judge
-You shall not know me to condemn
-You shall not know me to scheme
-You shall not know me to impinge morality
-With this moment, just now
+You shall not know me to judge<br>
+You shall not know me to condemn<br>
+You shall not know me to scheme<br>
+You shall not know me to lie<br>
+You shall not know me to impose morality<br>
+With this moment, just now<br>
+Even when, especially when<br>
+You aren't returning the favor
