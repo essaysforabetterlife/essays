@@ -54,4 +54,4 @@ You shall not know me to lie<br>
 You shall not know me to impose morality<br>
 With this moment, just now<br>
 Even when, especially when<br>
-You aren't returning the favor
+You don't have that commitment
