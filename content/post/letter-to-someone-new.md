@@ -1,14 +1,14 @@
 ---
 title: "Letter to Someone New"
 date: 2023-03-09T09:00:00-08:00
-draft: true
+draft: false
 ---
 
 There's a line in Zen Mind, Beginner's Mind that goes something like "separated from the universe by birth, we have difficulty." Knowing how birth works because a sperm and an egg germinate, some basic set of instructions on a very small level come together, and as you keep sourcing energy to this basic set of instructions it begins to grow and take form. When this is a child you think is your offspring, you are programmed by your genes and your society to glob onto that form, to protect it. And in the west, that usually comes with high doses of neuroticism and fear. Maybe this is what the Buddha really meant when he said "Birth is suffering."
 
 ## Letter to my Newborn
 
-You were born last week. I stood by your mom, holding her hand, as she worked very hard to help push you into this world. There were a great many excited people, and all dressed up in gowns. They came from all over the hospital to be there. After you came out of your mom and started breathing on her chest, still molded into the shape of her birth canal, tears immediately started coming out of both of our eyes. While there were lots of emotions, I might describe it best as "a happiness of relief"
+You were born last week. I stood by your mom, holding her hand, as she worked very hard to help push you into this world. There were a great many excited people, and all dressed up in gowns. They came from all over the hospital to be there. After you came out of your mom and started breathing on her chest, still molded into the shape of her birth canal, tears immediately started coming out of both of our eyes. While there were lots of emotions, I might describe it best as "a happiness of relief."
 
 Like all new parents, there's a certain amount of fear that sits within me, a deep and primal desire to protect you from the world and ensure your safety. I'd like to tell you that it's a selfless desire, but you will someday learn those almost never exist. This particular desire is what drives parents to push their kids to be overachievers, to insist that they strive to get good grades, get into prestigious schools, start working at prestigious companies, associate themselves with prestigious people, and boast of their children's accomplishments. This boasting is to insecurity as Advil is to inflammation: it provides a short term respite, and does much more long term damage that's harder to detect.
 
@@ -18,7 +18,9 @@ My true fear for you is that you get caught on the same hamster wheel of strivin
 
 ---
 
-My true fear for myself is that I make you into an ideal to solve my own problems. I can't think of a single parent I've gotten to know well who doesn't press his or her opinions of success and failure onto their kids. Sometimes it comes across subtly or unintentionally, and other times it's very obvious. 
+My true fear for myself is that I make you into an ideal to solve my own problems. I can't think of a single parent I've gotten to know well who doesn't press his or her opinions of success and failure onto their kids. Sometimes it comes across subtly or unintentionally, and other times it's very obvious. I am committed as much as possible to not demanding you do anything. You don't need to eat to make me happy, you don't need to succeed to make me happy. You don't need to love me back, or be nice to me, to make me happy. My commitment to you is to teach you as much as I can, to show you the world as much as I can, and let you decide for yourself how to live in it. And, finally, I shall identify with no praise that says this is the "good" or "right" way to be. 
+
+Simply to be with you, just now, in whatever way you are. Because once you see things this way, you just can't imagine why you'd do anything different.
 
 
 
