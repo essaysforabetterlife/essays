@@ -6,27 +6,27 @@ draft: false
 
 # Husband of Tao
 
-A husband in whom Tao acts without impediment
-Never raises his voice in anger
+A husband in whom Tao acts without impediment<br>
+Never raises his voice in anger<br>
 and does not know himself to be pious, or virtuous
 
-A husband in whom Tao acts through and through
-does not use games and tricks to get his wife to behave
+A husband in whom Tao acts through and through<br>
+does not use games and tricks to get his wife to behave<br>
 and does not mind when she tries to
 
-He does not have anger for his partner
-he does not make a virtue of kindness
-he goes his own way, independent of ignorant advice
+He does not have anger for his partner<br>
+he does not make a virtue of kindness<br>
+he goes his own way, independent of ignorant advice<br>
 and does not mind when she browses Instagram
 
-Doting affection and threats
-do not deter him. 
-Love and anger
-are of no concern
-A furrowed brow, a smile
+Doting affection and threats<br>
+do not deter him. <br>
+Love and anger<br>
+are of no concern<br>
+A furrowed brow, a smile<br>
 are one and the same
 
-While he gives unconditionally
-and does not demand anything of her
+While he gives unconditionally<br>
+and does not demand anything of her<br>
 He does not mind when, in that, he is alone 
 
