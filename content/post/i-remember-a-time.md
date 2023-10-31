@@ -23,7 +23,7 @@ prefer nothing<br>
 discern nothing<br>
 
 A simple existence<br>
-that looked no further than what what seen<br>
+that looked no further than what was seen<br>
 
 Child-like wonder<br>
 The fall from grace<br>
