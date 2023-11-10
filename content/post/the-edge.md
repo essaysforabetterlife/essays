@@ -10,7 +10,7 @@ isn't static or still--namely, everything. Whether we like it or not, whether we
 blocks, swapping ourselves out with our environment in a cycle that just perpetuates, 
 whether described in terms of matter or energy.
 
-So "I want to change," in th emeaning we intend, has purpose to it. We aren't simply content with the mere fact that we're constantly changing,
+So "I want to change," in the meaning we intend, has purpose to it. We aren't simply content with the mere fact that we're constantly changing,
 what we seem to be saying instead is that we want to change in a purposeful direction. We want some habitual 
 tendency that we are caught in a loop on to end, and to be replaced with something more advantageous to ourselves long term.
 In the  context of the midnight snack, "I want to change" becomes "I want to make healthier choices that are in my long
@@ -20,7 +20,7 @@ it takes for me to run three miles to be lower in the future than it is today." 
 
 Once we have a desire, in a moment, to do so, the goal of change depends on what we may call The Edge. 
 
-All directed, conscious change, in one form or another, comes from time spent near or at The Edge.
+All directed, conscious change, in one form or another, comes first from time spent near or at The Edge.
 
 ## Finding more in the gas tank
 
@@ -48,8 +48,8 @@ otherwise fasting, and a sense of calm comes forth.
 
 ## Unceasing Dedication
 
-It's not enough to do it once. You can't simply drop the habit of letting angry run your life
-in a day. You will meet your
+It's not enough to do it once. You can't simply drop the habit of letting anger run your life
+in a day, and you won't run a five-minute mile after training for a week. You will meet your
 Edge over and over again, sometimes even a few seconds after you were just there, and just found more within you.
 It's your purpose to be vigilant about its nature. To change, to really improve
 something about your life in a sustainable way, you must become comfortable at The Edge. Be devotional
